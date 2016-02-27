@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleClientApp</string>
+    <string name="send_request">Send request</string>
+    <string name="send_request_all">Retrieve all records</string>
+    <string name="enter_user_name">Enter username on the edit text field to retrieve the whole person information.
+    Once inputted, press the button and the person\'s information will load here.</string>
+</resources>
